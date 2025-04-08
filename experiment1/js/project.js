@@ -1,6 +1,6 @@
-// project.js - purpose and description here
-// Author: Your Name
-// Date:
+// project.js - This project generates text to form interesting world headline news with nations.
+// Author: Ada Scales
+// Date: 4/7/2025
 
 // NOTE: This is how we might start a basic JavaaScript OOP project
 
